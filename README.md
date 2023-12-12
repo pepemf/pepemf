@@ -23,7 +23,7 @@ const Dev = {
 <p align="center">
 	<a href="https://pepemf.github.io/Portifolio/" target="_blank"><img src="https://img.shields.io/badge/Portifolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" target="_blank"></a>
 	<a href="https://www.instagram.com/_pepe_mf/" target="_blank"><img src="https://img.shields.io/badge/-instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" target="_blank"></a>
-	<a href="www.linkedin.com/in/pepemf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-informational?logo=linkedin&logoColor=white&style=for-the-badge" target="_blank"></a>
+	<a href="https://www.linkedin.com/in/pepemf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-informational?logo=linkedin&logoColor=white&style=for-the-badge" target="_blank"></a>
 	<a href="mailto:jpedromoco@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
